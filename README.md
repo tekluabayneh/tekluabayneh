@@ -1,11 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+# Hi there 👋:
+I'm Teklu Abayneh,  full-stack developer with a love for creating impactful digital solutions. My journey in tech is fueled by a relentless pursuit of knowledge and innovation.
 
 # 💫 About Me:
 👯 I’m looking to collaborate on exciting projects and connect with other developers.<br><br>🤝 I’m seeking job opportunities and am passionate about teaching myself new technologies to enhance my skills.<br>
-
-# Hi there 👋:
-I'm Teklu Abayneh,  full-stack developer with a love for creating impactful digital solutions. My journey in tech is fueled by a relentless pursuit of knowledge and innovation.
 
 # Projects and Contributions:
 API Data Provider: Built a robust system for generating mock JSON data.
