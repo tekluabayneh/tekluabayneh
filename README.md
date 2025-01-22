@@ -1,4 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 # Hi there 👋:
 I'm Teklu Abayneh,  full-stack developer with a love for creating impactful digital solutions. My journey in tech is fueled by a relentless pursuit of knowledge and innovation.
