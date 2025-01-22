@@ -28,7 +28,7 @@ Created an interactive dashboard with customizable widgets and real-time updates
 📫 How to Reach Me:
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teklu-abayneh)
 
-Email: your.email@example.com
+Email: tekluabayneh@gmail.com
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
