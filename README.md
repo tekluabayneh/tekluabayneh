@@ -21,14 +21,15 @@ VS Code is my temple. Neovim is my side hustle.
 
 # ⚒️ Projects and Experiments:
 
-### 🧪 API Data Provider  
-A fake JSON API tool — because real APIs ghost sometimes.
+⚒️ Projects and Experiments:
+## 🛡️ Edge-Aware Cybersecurity Orchestrator
+Backend system for real-time edge/IoT threat detection. Go orchestrator + lightweight Go agents + Python anomaly analyzer. Dockerized, encrypted REST
 
-### 🛒 Amazon Clone  
-Built an e-commerce site with Firebase, Stripe, and duct tape.
+## ✍️ Collaborative Code Editor
+Real-time multiplayer code editor. Node.js/TypeScript backend with WebSocket sync + React frontend. Strong backend focus.
 
-### 📊 Dashboard Project  
-Customizable dashboard. If it breaks, just refresh. Twice.
+## 💼 Micro-Task Marketplace
+Gig platform connecting clients & freelancers. Node.js/TypeScript backend (auth, tasks, payments, notifications) + React frontend.
 
 ---
 
