@@ -80,6 +80,8 @@ Gig platform connecting clients & freelancers. Node.js/TypeScript backend (auth,
 </table>
 
 ---
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tekluabayneh?theme=dark)](https://leetcode.com/tekluabayneh)
+
 
 # 📊 GitHub Stats:
 
