@@ -44,6 +44,12 @@ The areas I actively study and build around — not just terms I've heard of:
 | ⚡ **Real-Time Systems** | Long polling, SSE, WebSockets, pub/sub fan-out architectures |
 | ☸️ **Orchestration** | Container scheduling, control loops, reconciliation — the mechanics behind tools like Kubernetes, not just their CLIs |
 
+<div align="center">
+
+<img src="assets/reconciliation-loop.svg" alt="Reconciliation loop: Desired State → Observe & Diff → Reconcile → Actual State" width="720" />
+
+</div>
+
 ---
 
 ### 🚀 Featured Projects
@@ -106,7 +112,8 @@ A real-time, multi-user code editor with a TypeScript backend and React frontend
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/mysql-%2300000F.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /><br/>
@@ -114,8 +121,10 @@ A real-time, multi-user code editor with a TypeScript backend and React frontend
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/>
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -134,19 +143,29 @@ A real-time, multi-user code editor with a TypeScript backend and React frontend
 
 ### 📊 GitHub Activity
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy-winning.vercel.app/?username=tekluabayneh&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tekluabayneh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tekluabayneh&theme=dark&hide_border=false)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=tekluabayneh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/tekluabayneh?theme=dark)](https://leetcode.com/tekluabayneh)
-
-</div>
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tekluabayneh&theme=tokyo-night&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=tekluabayneh&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tekluabayneh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tekluabayneh&theme=dark&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/tekluabayneh"><img src="https://leetcard.jacoblin.cool/tekluabayneh?theme=dark" width="100%" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -162,7 +181,7 @@ Go and TypeScript are my present. **Rust** is the deliberate next step — once 
 
 **tekluabayneh@gmail.com** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/teklu-abayneh)** &nbsp;|&nbsp; 🌍 Open to remote opportunities
 
-<img src="https://visitcount.itsvg.in/api?id=tekluabayneh&icon=0&color=0" />
+<img src="https://komarev.com/ghpvc/?username=tekluabayneh&color=6C5CE7&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
